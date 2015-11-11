@@ -1,0 +1,11 @@
+# -*- coding:cp936 -*-
+
+"""
+Author:IAN
+Contact:knottech@163.com
+"""
+
+menu=("´¬²°ÍøÕ¾",
+         ("iknot.org", "iknot.apps.ktWebsite.iknotOrg",''),
+         ("ÁúµÄ´¬ÈË", "iknot.apps.ktWebsite.imarineCn",''),
+    )

@@ -185,4 +185,4 @@ def DisplayAll():
         kcs_ui.message_noconfirm(e.message)
 
 if __name__=="__main__":
-    pass
+    AddNote()
